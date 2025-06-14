@@ -1,0 +1,6 @@
+Hello, this is a test.
+Everything looks safe here.
+This line contains system command.
+Do not use eval here.
+Totally harmless.
+Maybe a scam attempt?

@@ -1,0 +1,4 @@
+C:/Users/Mi/CLionProjects/aipproject/cmake-build-debug/CMakeFiles/avscanner.dir
+C:/Users/Mi/CLionProjects/aipproject/cmake-build-debug/CMakeFiles/test_scanner.dir
+C:/Users/Mi/CLionProjects/aipproject/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Mi/CLionProjects/aipproject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
