@@ -41,14 +41,14 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "avscanner::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-avscanner-Debug-af0fc853ff2a06967c1a.json",
+					"jsonFile" : "target-avscanner-Debug-b23631b42902fda32432.json",
 					"name" : "avscanner",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "test_scanner::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-test_scanner-Debug-f98bfe7e9d7211ffed3b.json",
+					"jsonFile" : "target-test_scanner-Debug-efcd98da2e78c73a3904.json",
 					"name" : "test_scanner",
 					"projectIndex" : 0
 				}

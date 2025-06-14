@@ -2,7 +2,6 @@
 #include <iostream>
 #include <algorithm>
 
-// Внутренний список сигнатур (изначально предзаполнен)
 static std::vector<std::string> g_signatures = {
     "system", "eval", "fork", "exec", "CreateProcess"
 };

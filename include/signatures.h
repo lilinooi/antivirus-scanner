@@ -6,26 +6,30 @@
 
 /**
  * @file signatures.h
- * @brief Объявляет функции для работы с базой сигнатур.
+ * @brief Declares functions for working with the malware signature database.
  */
 
 /**
- * @brief Загружает (возвращает) текущий список сигнатур.
- * @return std::vector<std::string> Список сигнатур.
+ * @brief Loads and returns the current list of malware signatures.
+ *
+ * @return std::vector<std::string> A list of known malware signatures.
  */
 std::vector<std::string> load_signatures();
 
 /**
- * @brief Добавляет новую сигнатуру в список.
- * @param signature Строка-сигнатура.
+ * @brief Adds a new signature to the list.
+ *
+ * @param signature The signature string to be added.
  */
 void add_signature(const std::string &signature);
 
-#endif // SIGNATURES_H
-
 /**
  * @brief Removes a signature from the list.
- * @param signature The signature to remove.
- * @return true if removed, false if not found.
+ *
+ * @param signature The signature string to be removed.
+ * @return true if the signature was found and removed, false otherwise.
  */
 bool remove_signature(const std::string &signature);
+
+#endif // SIGNATURES_H
+
